@@ -1,0 +1,6 @@
+please open the local server forst by writing : node server.js 
+after this log on to http://localhost:3000/signin_up/signup.html 
+in your browser 
+to see the registerd users go users.json 
+
+enshure express and node.js is installed alread..
